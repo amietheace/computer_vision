@@ -7,11 +7,17 @@ practicing how to develop, evaluate, and use convolutional deep learning neural 
 I have trained 6 models for this. I have used Keras for these.
 
 6 Models with their F-Beta score are:
+
 --- CNN Model(BaseLine model) 0.827
+
 --- CNN Model with dropout  0.856
+
 --- CNN Model with data augmentation 0.889 
+
 --- Transfer learning using VGG-16 model  0.859
+
 --- VGG-16 with fine tuning  0.879
+
 --- VGG-16 with fine tuning and data augmentation  0.897
 
 There are colab notebook for each one of these models in this repository.
