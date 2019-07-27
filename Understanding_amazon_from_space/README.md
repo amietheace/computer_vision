@@ -23,3 +23,9 @@ I have trained 6 models for this. I have used Keras for these.
 There are colab notebook for each one of these models in this repository.
 I am using colab for GPU access, so first some kernels in each notebook will be for data access in colab notebook.
 Rest of the codes in the notebook are explained in markdown section(in BaseLine).
+
+
+Detailed description about functions used in this and codes are in notebooks(specificaly in baseline model). 
+
+this work is originally based on the blog of 'Machine learning mastery' whose link is:
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-satellite-photos-of-the-amazon-rainforest/
